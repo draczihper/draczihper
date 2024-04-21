@@ -16,6 +16,8 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
 - ⚡ Fun fact: When you work on a computer your hands travel 20 kilometers a day! 
 
 
+<br />
+
 ### Connect with me / View my content:
 
 <div align="left">
@@ -64,6 +66,8 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
 <div align="center">
   <img src="https://profile-counter.glitch.me/draczihper/count.svg?"  />
 </div>
+
+<br />
 
 
 ### Languages and tools
@@ -137,6 +141,8 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
 </div>
 
 
+<br />
+
 ### Stats
 
 <div align="center">
@@ -150,6 +156,8 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
   <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/9d408d26-d2bc-4ca3-9163-47181b847aa7.svg" height="300">
   <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/c936d585-425b-40d5-a7a7-4f953b67cfbb.svg" height="300">
 </div>  
+
+<br />
 
 ### Music
 
