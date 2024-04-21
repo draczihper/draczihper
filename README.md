@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Drac
 #### A software developer from Tanzania.
-<img align="center" alt="nebula" width="100vw" src="images/1500x500.jpeg">
+<img align="center" alt="nebula" width="1200" src="images/1500x500.jpeg">
 
 👨‍💻 Passionate Full-Stack Developer | Blockchain & ML Enthusiast | Transforming ideas into elegant code | Lifelong learner | #CodeEnthusiast
 
