@@ -145,10 +145,10 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
   <img src="https://streak-stats.demolab.com?user=draczihper&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=draczihper&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=draczihper&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/da22783a-d714-4e3f-8e2f-ae176a2310c0.svg" height="400">
-  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/90da9b14-34db-411d-bb19-04690ba8dd97.svg" height="400">
-  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/9d408d26-d2bc-4ca3-9163-47181b847aa7.svg" height="400">
-  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/c936d585-425b-40d5-a7a7-4f953b67cfbb.svg" height="400">
+  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/da22783a-d714-4e3f-8e2f-ae176a2310c0.svg" height="200">
+  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/90da9b14-34db-411d-bb19-04690ba8dd97.svg" height="200">
+  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/9d408d26-d2bc-4ca3-9163-47181b847aa7.svg" height="200">
+  <img src="https://wakatime.com/share/@018eecbf-3532-461b-b713-1a0b2c8237ef/c936d585-425b-40d5-a7a7-4f953b67cfbb.svg" height="200">
 </div>  
 
 ### Music
