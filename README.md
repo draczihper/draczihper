@@ -9,9 +9,9 @@ Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
 - 🔭 I’m currently working on the next airbnb for Tanzania. 
 - 🌱 I’m currently learning Blockchain. 
 - 👯 I’m looking to collaborate on small projects, enterprise applications and software etc. 
-- 🤔 I’m looking for help with getting started with content writing. 
+- 🤔 I’m looking for help with getting started with technical and content writing. 
 - 💬 Ask me about programming, science, space, cars, football (anything nerdy or fun) 
-- 📫 How to reach me: https://portfolio-website-six-phi-91.vercel.app
+- 📫 How to reach me: [Contact](https://portfolio-website-six-phi-91.vercel.app)
 - 😄 Pronouns: None (I don't understand these things) 
 - ⚡ Fun fact: When you work on a computer your hands travel 20 kilometers a day! 
 
