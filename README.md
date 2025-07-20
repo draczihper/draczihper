@@ -1,5 +1,13 @@
+### Hi there 👋, my name is Drac
+#### A software developer from Tanzania.
+<img align="center" alt="nebula" width="1200" src="images/1500x500.jpeg">
+
+👨‍💻 Passionate Full-Stack Developer | Blockchain & ML Enthusiast | Transforming ideas into elegant code | Lifelong learner | #CodeEnthusiast
+
+Skills: JS / HTML / CSS / MONGODB / SQL / C / PYTHON
+
 # 💫 About Me:
-🔭 I’m currently working on the next airbnb for Tanzania.<br>🌱 I’m currently learning Blockchain.<br>👯 I’m looking to collaborate on small projects, enterprise applications and software etc.<br>🤔 I’m looking for help with getting started with technical and content writing.<br>💬 Ask me about programming, science, space, cars, football (anything nerdy or fun).<br>😄 Pronouns: None (I don't understand these things).<br>⚡ Fun fact: When you work on a computer your hands travel 20 kilometers a day!
+🔭 I’m currently working on the next airbnb.<br>🌱 I’m currently learning Blockchain.<br>👯 I’m looking to collaborate on small projects, enterprise applications and software etc.<br>🤔 I’m looking for help with getting started with technical and content writing.<br>💬 Ask me about programming, science, space, cars, football (anything nerdy or fun).<br>😄 Pronouns: None (I don't understand these things).<br>⚡ Fun fact: When you work on a computer your hands travel 20 kilometers a day!
 
 
 ## 🌐 Socials:
